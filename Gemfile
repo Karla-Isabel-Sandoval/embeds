@@ -49,7 +49,7 @@ gem 'braintree'
 gem 'paypal-sdk-rest'
 gem 'sendgrid-ruby'
 gem 'algoliasearch-rails'
-gem 'ahoy_matey'
+gem 'ahoy_matey', '>= 1.6.1'
 gem 'rack-cors'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
