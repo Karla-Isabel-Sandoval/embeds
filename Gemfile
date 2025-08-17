@@ -7,7 +7,7 @@ end
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 5.1.4'
+gem 'rails', '~> 7.1.5', '>= 7.1.5.2'
 
 gem 'pg'
 # Use Puma as the app server
@@ -34,7 +34,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'bootstrap', '~> 4.0.0.beta'
 gem 'font-awesome-rails'
-gem 'kaminari'
+gem 'kaminari', '>= 1.1.1'
 gem 'aws-sdk-s3', '~> 1'
 gem 'aws-sdk-elastictranscoder'
 gem 'aws-sdk-cloudfront'
