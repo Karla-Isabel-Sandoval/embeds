@@ -43,7 +43,7 @@ gem 'sucker_punch' #remove
 gem 'jquery-fileupload-rails'
 gem 'devise'
 gem 'sidekiq'
-gem 'omniauth-facebook'
+gem 'omniauth-facebook', '>= 5.0.0'
 gem 'cloudinary'
 gem 'braintree'
 gem 'paypal-sdk-rest'
